@@ -41,11 +41,9 @@ FORMAT_EMAIL = "email"  #:
 FORMAT_IPV4 = "ipv4"  #:
 FORMAT_IPV6 = "ipv6"  #:
 FORMAT_URI = "uri"  #:
-
-# pulled out of my ass
 FORMAT_UUID = "uuid"  #:
 FORMAT_SLUG = "slug"  #:
-FORMAT_DECIMAL = "decimal"
+FORMAT_DECIMAL = "decimal"  #:
 
 IN_BODY = 'body'  #:
 IN_PATH = 'path'  #:
